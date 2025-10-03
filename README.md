@@ -41,10 +41,6 @@ Salesforce Flows (Screen Flow + Record-Triggered Flow)
 
 Reports & Dashboards
 
-Apex (Optional)
-
-Experience Cloud (Optional)
-
 
 📊 Demo Flow
 
